@@ -22,7 +22,7 @@ Please fix my robot friend :(
 
 4) Here is a reference image you can use to see how he should look:
 
-![Awesom-O](awesom-o.png)
+![Awesom-O](pobrane.png)
 
 Good luck!
 
